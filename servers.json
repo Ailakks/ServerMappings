@@ -1,4 +1,11 @@
 [
+	{
+        "id": "regorland",
+        "name": "Regorland",
+        "addresses": [
+            "regorland.net"
+        ]
+    },
     {
         "id": "minebet",
         "name": "MineBet",
